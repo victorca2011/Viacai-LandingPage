@@ -12,14 +12,12 @@ Uma landing page moderna e responsiva para promover a loja de delivery de açaí
 ### Vídeo Demonstrativo
 
 #### Visualização no Notebook
-<video width="600" controls>
-  [macbook.webm](https://github.com/user-attachments/assets/02ba3af5-5140-4a02-87a6-5af50e2ddc24)
-  Seu navegador não suporta o formato de vídeo WebM.
-</video>
+[macbook.webm](https://github.com/user-attachments/assets/ca9f11e8-3e1f-4c4a-9f3f-bf42c54b87e7)
+
 
 #### Visualização em Dispositivos Móveis
-<video width="300" controls>
-  [<source src="./midias/mobile.mp4" type="video/mp4">](https://github.com/user-attachments/assets/dd518716-7c47-4a02-8e96-e0ac8fb0d90a
-)
-  Seu navegador não suporta o formato de vídeo MP4.
-</video>
+
+
+https://github.com/user-attachments/assets/2c643d04-1d61-433e-9ed5-4f45413d5a0c
+
+
